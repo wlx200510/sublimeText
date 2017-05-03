@@ -1,0 +1,10 @@
+{
+	"auto_find_in_selection": true,
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"font_size": 14,
+	"ignored_packages":
+	[
+		"JavaScript Completions",
+		"Vintage"
+	]
+}

@@ -1,0 +1,29 @@
+{
+	"bootstrapped": true,
+	"channels":
+	[
+		"https://wilon.github.io/static/channel_v3.json"
+	],
+	"in_process_packages":
+	[
+		"JavaScript Completions"
+	],
+	"installed_packages":
+	[
+		"AutoFileName",
+		"ConvertToUTF8",
+		"DocBlockr",
+		"Emmet",
+		"jQuery",
+		"JsFormat",
+		"MarkdownEditing",
+		"Package Control",
+		"Python 3",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeGit",
+		"SublimeREPL",
+		"Terminal",
+		"WakaTime"
+	]
+}
